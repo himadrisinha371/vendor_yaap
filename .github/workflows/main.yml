@@ -23,4 +23,4 @@ jobs:
       uses: sangatdesai/release-apk@main
       env:
        GITHUB_TOKEN: ${{ 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 }}
-       APP_FOLDER: CertifiedPropsOverlay
+       APP_FOLDER: overlay/CertifiedPropsOverlay
